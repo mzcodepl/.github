@@ -42,6 +42,7 @@ We are always open to collaborations, custom commissions, and new projects!
 
 * 💬 **Discord:** [Join our Discord Server](https://dc.mzcode.pl) 
 * 🌐 **Website:** [mzcode.pl](https://mzcode.pl) 
+* 🌐 **Wiki:** [wiki.mzcode.pl](https://wiki.mzcode.pl) 
 * 📧 **Contact Email:** mzcode@int.pl
 ---
 
