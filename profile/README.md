@@ -10,7 +10,7 @@
 
 ## 🚀 About Us
 
-Welcome to the official **MZCODE** GitHub organization! We are a passionate team of developers dedicated to crafting high-quality software, custom Minecraft experiences, web applications, and powerful Discord automation.
+Welcome to the official **MZCode TEAM**! We are a passionate team of developers dedicated to crafting high-quality software, custom Minecraft experiences, web applications, and powerful Discord automation.
 
 Whether you're looking to enhance your Minecraft server, deploy a modern web platform, or build an interactive Discord bot, we bring ideas to life with clean and efficient code.
 
@@ -40,12 +40,11 @@ Whether you're looking to enhance your Minecraft server, deploy a modern web pla
 
 We are always open to collaborations, custom commissions, and new projects!
 
-* 💬 **Discord:** [Join our Discord Server](https://discord.gg/TWOJ-LINK) <!-- Zamień "TWOJ-LINK" na swój zaproszenie -->
-* 🌐 **Website:** [mzcode.org](https://mzcode.org) <!-- Zamień na domyślną stronę, jeśli posiadasz -->
-* 📧 **Contact Email:** contact@mzcode.org <!-- Zamień na e-mail kontaktowy -->
-
+* 💬 **Discord:** [Join our Discord Server](https://dc.mzcode.pl) 
+* 🌐 **Website:** [mzcode.pl](https://mzcode.pl) 
+* 📧 **Contact Email:** mzcode@int.pl
 ---
 
 <p align="center">
-  <i>Crafted with ❤️ by the <b>MZCODE</b> Team</i>
+  <i>Created with ❤️ by the <b>MZCODE</b> Team</i>
 </p>
