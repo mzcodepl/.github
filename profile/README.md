@@ -10,7 +10,7 @@
 
 ## 🚀 About Us
 
-Welcome to the official **MZCode TEAM**! We are a passionate team of developers dedicated to crafting high-quality software, custom Minecraft experiences, web applications, and powerful Discord automation.
+Welcome to the official **MZCode** GitHub! We are a passionate team of developers dedicated to crafting high-quality software, custom Minecraft experiences, web applications, and powerful Discord automation.
 
 Whether you're looking to enhance your Minecraft server, deploy a modern web platform, or build an interactive Discord bot, we bring ideas to life with clean and efficient code.
 
